@@ -1,0 +1,19 @@
+header{
+  text-align:centre;
+  border: 2px solid #FAEBD7;
+}
+main{
+  border: 2px double #FAEBD7;
+  margin: 2px 0 2px 0;
+  padding:3px 0 3px 0;
+}
+img {
+  border: 3px solid #FAEBD7;
+  height: 200px;
+  margin: 12px 20px 0 0;
+}
+footer{
+  border: 2px solid #FAEBD7;
+  margin: 2px 0 2px 0;
+  padding:3px 0 3px 0;
+}
